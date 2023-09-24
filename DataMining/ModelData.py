@@ -358,4 +358,4 @@ race_all.drop(columns=['Speed'], inplace=True)
 
 
 # And to now we can save it - this file will be available to download (now or later) on github.
-race_all.to_csv('raceall20220420.csv')
+race_all.to_csv('raceall.csv')
